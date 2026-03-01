@@ -15,5 +15,3 @@ I'm **Ashok**, a full stack engineer passionate about building exceptional softw
 ### 🎯 My Philosophy
 Exploring and learning something new every day to stay at the forefront of technology.
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashokkkk22)
