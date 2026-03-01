@@ -14,7 +14,3 @@ I'm **Ashok**, a full stack engineer passionate about building exceptional softw
 
 ### 🎯 My Philosophy
 Exploring and learning something new every day to stay at the forefront of technology.
-
----
-
-Feel free to check out my repositories and reach out if you'd like to collaborate!
